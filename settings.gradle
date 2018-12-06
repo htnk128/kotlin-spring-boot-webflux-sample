@@ -1,0 +1,3 @@
+rootProject.name = 'kotlin-spring-boot-webflux-sample'
+include 'app'
+include 'load'
