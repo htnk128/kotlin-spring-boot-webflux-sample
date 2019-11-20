@@ -7,6 +7,12 @@ Spring Boot WebFluxのサンプル
 $ gradle bootRun
 ```
 
+## Load Test
+
+``` bash
+$ gradle gatlingRun
+```
+
 ## Sample API
 
 ``` bash
