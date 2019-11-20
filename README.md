@@ -3,9 +3,12 @@ Spring Boot WebFluxのサンプル
 
 ## Run Application
 
-```
+``` bash
 $ gradle bootRun
 ```
 
 ## Sample Page
-http://localhost:8080/
+
+``` bash
+$ curl -X GET http://localhost:8080
+```
