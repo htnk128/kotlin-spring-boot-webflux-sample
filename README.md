@@ -7,7 +7,7 @@ Spring Boot WebFluxのサンプル
 $ gradle bootRun
 ```
 
-## Sample Page
+## Sample API
 
 ``` bash
 $ curl -X GET http://localhost:8080
